@@ -1,0 +1,17 @@
+D:\CodeZone\CodeZone\RSA\JWTDemo\obj\Debug\JWTDemo.csproj.CoreCompileInputs.cache
+D:\CodeZone\CodeZone\RSA\JWTDemo\bin\Debug\JWTDemo.exe.config
+D:\CodeZone\CodeZone\RSA\JWTDemo\bin\Debug\JWTDemo.exe
+D:\CodeZone\CodeZone\RSA\JWTDemo\bin\Debug\JWTDemo.pdb
+D:\CodeZone\CodeZone\RSA\JWTDemo\bin\Debug\BouncyCastle.Crypto.dll
+D:\CodeZone\CodeZone\RSA\JWTDemo\bin\Debug\jose-jwt.dll
+D:\CodeZone\CodeZone\RSA\JWTDemo\obj\Debug\JWTDemo.exe
+D:\CodeZone\CodeZone\RSA\JWTDemo\obj\Debug\JWTDemo.pdb
+D:\GitHub\CodeZone\RSA\JWTDemo\bin\Debug\JWTDemo.exe.config
+D:\GitHub\CodeZone\RSA\JWTDemo\bin\Debug\JWTDemo.exe
+D:\GitHub\CodeZone\RSA\JWTDemo\bin\Debug\JWTDemo.pdb
+D:\GitHub\CodeZone\RSA\JWTDemo\bin\Debug\BouncyCastle.Crypto.dll
+D:\GitHub\CodeZone\RSA\JWTDemo\bin\Debug\jose-jwt.dll
+D:\GitHub\CodeZone\RSA\JWTDemo\obj\Debug\JWTDemo.csprojResolveAssemblyReference.cache
+D:\GitHub\CodeZone\RSA\JWTDemo\obj\Debug\JWTDemo.csproj.CoreCompileInputs.cache
+D:\GitHub\CodeZone\RSA\JWTDemo\obj\Debug\JWTDemo.exe
+D:\GitHub\CodeZone\RSA\JWTDemo\obj\Debug\JWTDemo.pdb
